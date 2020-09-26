@@ -6,19 +6,16 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Thoughts
 
 # Your name to show in the footer
-author: Some Person
+author: YongXing
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: "aboutme"  
+  Author's home: "https://yongxing.github.io"
 
 # --- Logo --- #
 
@@ -39,10 +36,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "foman@outlook.com"
+  facebook: yxliang
+  github: foman
+#  twitter: 
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
